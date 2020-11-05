@@ -1,1 +1,6 @@
 draft test file
+
+git clone
+git add
+git commit -m "first commit" draft.txt
+git push -u origin master
